@@ -1,4 +1,4 @@
-<img width="936" height="235" alt="image" src="https://github.com/user-attachments/assets/7653b142-2404-4e90-a9ec-c0304c69f05e" /># Exception Handling in Python: Avoiding Index Errors
+# Exception Handling in Python: Avoiding Index Errors
 
 ## 🎯 Aim
 To write a Python program that handles an **IndexError** when trying to access an element beyond the available range of a list.
@@ -21,7 +21,7 @@ print("You're out of list range")
 
 ```
 ## Output
-<img width="936" height="235" alt="image" src="https://github.com/user-attachments/assets/53eee298-02e2-4819-80b2-76321b8a62e2" />
+<img width="790" height="213" alt="image" src="https://github.com/user-attachments/assets/909c2989-12b9-4408-96ad-43abf6e3f653" />
 
 ## Result
 The program is executed
